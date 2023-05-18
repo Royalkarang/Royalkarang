@@ -24,12 +24,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a>
+ <a href="https://JavaScript.com" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg" alt="JavaScript" width="40" height="40"/> </a> 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="react" width="40" height="40"/> </a> </p>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-V7iYakq_Aka5xzff4O2cIT114R0xgTMY7qcYw9Y&s" alt="c" width="40" height="40"/> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/477/472/png-transparent-node-js-javascript-react-logo-express-js-javascript-logo-text-trademark-rectangle.png" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> 
+ 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://p7.hiclipart.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java.jpg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="react" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=royalkarang&show_icons=true&locale=en&layout=compact" alt="royalkarang" /></p>
 
