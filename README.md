@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/royalkarang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="royalkarang" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karansingh0948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karansingh0948" height="30" width="40" /></a>
-<a href="https://fb.com/karanksingh11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karanksingh11/" height="30" width="40" /></a>
-<a href="https://instagram.com/royalsingh0948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="royalsingh0948" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/royalkaransingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="royalkaransingh" height="30" width="40" /></a>
+<a href="https://twitter.com/royalkarang" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0IJVDdxX2gc2vMkTw1xWDQyzkjhTQqX28SlyiSE3q_8H0dLo&s" alt="royalkarang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karansingh0948" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="karansingh0948" height="30" width="40" /></a>
+<a href="https://fb.com/karanksingh11/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/facebook-icons/facebook-icon-basic-round-social-iconset-icons-4.png" alt="karanksingh11/" height="30" width="40" /></a>
+<a href="https://instagram.com/royalsingh0948" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-png-instagram-logo-camel-productions-website-25.png" alt="royalsingh0948" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/royalkaransingh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="royalkaransingh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
