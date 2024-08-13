@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/royalkarang" target="blank"><img src="https://img.shields.io/twitter/follow/royalkarang?logo=twitter&style=for-the-badge" alt="royalkarang" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA+DSA**
+- 🌱 I’m currently Working as  **Frontend-Developer**
 
 - 👨‍💻 All of my projects are available at [https://royalkarang.github.io/port/](https://royalkarang.github.io/port/)
 
