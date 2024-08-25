@@ -1,4 +1,4 @@
-# Hi 👋, I'm Karan Singh
+<h1 align="center"> Hi 👋, I'm Karan Singh </h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="">
 
